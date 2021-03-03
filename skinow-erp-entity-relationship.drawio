@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T10:30:44.178Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="41HK-5lY54miVZZC7Qnf" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T11:16:58.856Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="_fhsJPGfoFh4bEv-djxu" version="14.4.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1790" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -44,19 +44,19 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-28" value="会员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="590" width="160" height="120" as="geometry" />
+          <mxGeometry x="1240" y="567.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-29" value="手机号 必填，本表唯一" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fdTC0X4Nxif4Oo2Fp6-Q-28">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-30" value="学员" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="360" width="160" height="120" as="geometry" />
+          <mxGeometry x="1240" y="337.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-31" value="姓名" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fdTC0X4Nxif4Oo2Fp6-Q-30">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-32" value="会员联系人" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="800" width="160" height="120" as="geometry" />
+          <mxGeometry x="1240" y="777.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-33" value="可以控制" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fdTC0X4Nxif4Oo2Fp6-Q-32">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
@@ -66,7 +66,7 @@
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdTC0X4Nxif4Oo2Fp6-Q-28" target="fdTC0X4Nxif4Oo2Fp6-Q-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="580" as="sourcePoint" />
+            <mxPoint x="1320" y="557.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fdTC0X4Nxif4Oo2Fp6-Q-36" target="fdTC0X4Nxif4Oo2Fp6-Q-38">
@@ -121,16 +121,22 @@
           <mxGeometry x="50" y="700" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-60" value="优惠券" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="450" width="160" height="120" as="geometry" />
+          <mxGeometry x="930" y="482.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-61" value="优惠券规则" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="260" width="160" height="120" as="geometry" />
+          <mxGeometry x="930" y="292.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-62" value="优惠券使用规则" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="620" width="160" height="120" as="geometry" />
+          <mxGeometry x="930" y="652.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-63" value="优惠券发放记录" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="940" y="810" width="160" height="120" as="geometry" />
+          <mxGeometry x="930" y="842.5" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-64" value="会员权益卡" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="567.5" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdTC0X4Nxif4Oo2Fp6-Q-65" value="手机号 必填，本表唯一" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fdTC0X4Nxif4Oo2Fp6-Q-64">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
